@@ -2,4 +2,4 @@
 
 This code creates a set of django models to fit this database design
 
-![Database Graph]("Relationship Diagram")
+![Database Graph](https://github.com/shellgon26/DjangoModelCreation/blob/master/Diagram/RD.PNG "Relationship Diagram")
